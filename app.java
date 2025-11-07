@@ -30,7 +30,6 @@ class GFG {
 
 
 
-
 //Developer-2
 
 // Java program to find GCD of two 
@@ -53,3 +52,8 @@ class geeksforgeeks {
                            + " is: " + GCD(x, y));
     }
 }
+
+
+
+
+new code by dev1 without pull the code
